@@ -12,3 +12,12 @@
 **Today's Progress**: Learned Javascript Es6 features and completed css-handbook.
 
 **What did I do?😃:** Today's a great day, I been coding for 8 hours, I learned a lot about javascript Es6 features and I completed flaviocopes's the CSS-Handbook and it's a great book, he explained everything clearly. Check out http://flaviocopes.com.
+
+
+ 
+ ### Day 3: November 6, 2019
+
+**Today's Progress**: Experimented with the CSS grid.
+
+**What did I do?😃:** So, today I experimented with the CSS grid, it turns out it is powerful. Learning CSS is so much fun, 
+Firefox Dev Tools for CSS grid is awesome, it helped me understand what's going on my CSS grid.
