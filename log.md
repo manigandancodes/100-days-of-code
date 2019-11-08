@@ -27,3 +27,9 @@ Firefox Dev Tools for CSS grid is awesome, it helped me understand what's going 
 **Today's Progress**: Learnt More CSS and Javascript.
 
 **What did I do?😃:** Today I learnt to use sass, Javascript's 'this' keyword and arrow function. Also learned react basics. React is really fun.
+
+ ### Day 5: November 7, 2019
+
+**Today's Progress**: Had so much fun with ReactJs.
+
+**What did I do?😃:** Today I had a hard time understanding some react concepts, so I watched the same video for about two hours, yeah it's too long but it's worth spending my time for something that I love♥️.
