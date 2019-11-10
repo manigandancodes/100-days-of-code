@@ -41,3 +41,15 @@ Firefox Dev Tools for CSS grid is awesome, it helped me understand what's going 
 
 **What did I do?😃:** Today I had a lot of fun with flutter and it's awesome. @FlutterDev and @dart_lang syntax are easy to learn and code, yet powerful and their documentation is well written.
 
+
+### Day 7: November 10, 2019
+
+**Today's Progress**: Learned about react-router.
+
+**What did I do?😃:** After a busy day, I started watching the rest of the @AndreiNeagoie's complete react course, which is super awesome and learned a lot about react-router.
+
+
+
+
+
+
