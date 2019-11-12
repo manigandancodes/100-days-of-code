@@ -48,3 +48,9 @@ Firefox Dev Tools for CSS grid is awesome, it helped me understand what's going 
 **Today's Progress**: Read Node.js Handbook.
 
 **What did I do?😃:** Today was interesting, I spent most of my time reading Flaviocopes's excellent Node.js handbook, everything is clear and easy to understand.
+
+### Day 9: November 12, 2019
+
+**Today's Progress**: Read Eloquent Javascript Book.
+
+**What did I do?😃:** Lately, I started reading lots of programming books because topics covered in them are clear and straight forward, reading books helps me think 🤔 rather than blindly following video tutorials.
