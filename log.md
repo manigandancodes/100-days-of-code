@@ -54,3 +54,8 @@ Firefox Dev Tools for CSS grid is awesome, it helped me understand what's going 
 **Today's Progress**: Read Eloquent Javascript Book.
 
 **What did I do?😃:** Lately, I started reading lots of programming books because topics covered in them are clear and straight forward, reading books helps me think 🤔 rather than blindly following video tutorials.
+
+
+**Today's Progress**: Read Eloquent Javascript Book.
+
+**What did I do?😃:** I didn't code much today I read a few chapters of Eloquent Javascript book, it's one of the great books to learn javascript.
