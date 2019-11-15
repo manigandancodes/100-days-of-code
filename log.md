@@ -65,3 +65,13 @@ Firefox Dev Tools for CSS grid is awesome, it helped me understand what's going 
 **Today's Progress**: Started learning Regex.
 
 **What did I do?😃:** Today I started learning Regular Expression, it's kind of intimidating for the first time but it's super useful to learn and @MozDevNet has great docs on regex https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+### Day 12: November 15, 2019
+**Today's Progress**: Learned about JavaScript Event loop.
+
+**What did I do?😃:** 
+
+Today I watched lots of videos on JavaScript Event loop, it was pretty confusing for me in the begining, I think it's really important to learn event loop as a javascript developer.
+
+https://flaviocopes.com/javascript-event-loop/
+
