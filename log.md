@@ -71,13 +71,22 @@ Firefox Dev Tools for CSS grid is awesome, it helped me understand what's going 
 
 **What did I do?😃:** 
 Today I watched lots of videos on JavaScript Event loop, it was pretty confusing for me in the begining, I think it's really important to learn event loop as a javascript developer.
-
 https://flaviocopes.com/javascript-event-loop/
 
-Day 13 of #100DaysOfCode 
 
  ### Day 13: November 16, 2019
 **Today's Progress**: Continued learning React.
 
 **What did I do?😃:** 
 Continued learning Complete React Developer in 2020 course on Udemy, react may be hard to understand at first but once you understand it, you can do wonders with it. Thanks to the reactjs team for the amazing documentation.
+
+ ### Day 14: November 17, 2019
+**Today's Progress**: Continued learning React.
+
+**What did I do?😃:** 
+Finally, I started designing my portfolio, It's really fun to do, I've chosen the colors for the portfolio but truth to be told it's very hard to design a website, I have no idea how designers do it. And also revisited some react topics.
+#coding
+
+
+
+
