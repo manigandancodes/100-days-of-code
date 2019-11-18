@@ -87,6 +87,11 @@ Continued learning Complete React Developer in 2020 course on Udemy, react may b
 Finally, I started designing my portfolio, It's really fun to do, I've chosen the colors for the portfolio but truth to be told it's very hard to design a website, I have no idea how designers do it. And also revisited some react topics.
 #coding
 
+### Day 14: November 17, 2019
+**Today's Progress**: Continued working on my portfolio website.
 
-
+**What did I do?😃:**
+Day 15 of #100DaysOfCode 
+Continued working with my portfolio website, read a few chapters in the Eloquent Javascript book.
+#coding
 
