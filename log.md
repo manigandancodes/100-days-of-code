@@ -101,3 +101,10 @@ Continued working with my portfolio website, read a few chapters in the Eloquent
 **What did I do?😃:**
 If you want to refresh your Javascript knowledge or you're a beginner to JS you should read @flaviocopes's amazing Javascript HandBook also he posts a comprehensive tutorial on the web development almost every day. Thank you for your great tutorials.
 
+
+### Day 17: November 20, 2019
+**Today's Progress**: Continued Learning React.
+
+**What did I do?😃:**
+Today wasn't that interesting, revisited some react topics and watched Complete React Developer on Udemy. I hope tomorrow will be great.
+
