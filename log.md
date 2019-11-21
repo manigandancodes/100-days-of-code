@@ -108,3 +108,8 @@ If you want to refresh your Javascript knowledge or you're a beginner to JS you 
 **What did I do?😃:**
 Today wasn't that interesting, revisited some react topics and watched Complete React Developer on Udemy. I hope tomorrow will be great.
 
+### Day 18: November 21, 2019
+**Today's Progress**: Experimented with css for my portfolio project.
+
+**What did I do?😃:**
+Since I started working on my portfolio, I noticed that I need to improve my CSS skills a lot, we may think css is easy and not very important to learn but learning CSS is as important as learning Javascript and learning css is fun 🎉.
