@@ -113,3 +113,10 @@ Today wasn't that interesting, revisited some react topics and watched Complete 
 
 **What did I do?😃:**
 Since I started working on my portfolio, I noticed that I need to improve my CSS skills a lot, we may think css is easy and not very important to learn but learning CSS is as important as learning Javascript and learning css is fun 🎉.
+
+### Day 19: November 22, 2019
+**Today's Progress**: Started learning python.
+
+**What did I do?😃:**
+Today, I started learning Python I never thought I would like a programming language other than Javascript but Python is so awesome and easy to learn. I'm excited to do more Python projects in the future.
+
