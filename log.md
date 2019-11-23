@@ -120,3 +120,8 @@ Since I started working on my portfolio, I noticed that I need to improve my CSS
 **What did I do?😃:**
 Today, I started learning Python I never thought I would like a programming language other than Javascript but Python is so awesome and easy to learn. I'm excited to do more Python projects in the future.
 
+### Day 20: November 23, 2019
+**Today's Progress**: Continued learning python and Javascript.  
+
+**What did I do?😃:**
+Continued learning python and Javascript. I have to say this @freeCodeCamp is awesome it has great in-depth curriculum and coding tutorials, I learned most of the Javascript from FreeCodeCamp thanks to @ossia  and team for making it possible.
