@@ -125,3 +125,10 @@ Today, I started learning Python I never thought I would like a programming lang
 
 **What did I do?😃:**
 Continued learning python and Javascript. I have to say this @freeCodeCamp is awesome it has great in-depth curriculum and coding tutorials, I learned most of the Javascript from FreeCodeCamp thanks to @ossia  and team for making it possible.
+
+### Day 21: November 24, 2019
+**Today's Progress**: Continued learning python and react.  
+
+**What did I do?😃:**
+Continued learning React and Python, I'm excited to learn more programming tomorrow and I think everyone should try 100Days challenge it is so useful and it builds discipline and engagement in learning.
+
