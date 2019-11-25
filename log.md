@@ -132,3 +132,12 @@ Continued learning python and Javascript. I have to say this @freeCodeCamp is aw
 **What did I do?😃:**
 Continued learning React and Python, I'm excited to learn more programming tomorrow and I think everyone should try 100Days challenge it is so useful and it builds discipline and engagement in learning.
 
+
+### Day 22: November 25, 2019
+**Today's Progress**:  Learned Recursion in Javascript.  
+
+**What did I do?😃:**
+Spent my whole day trying to understand recursion in Javascript, when I started learning, it was difficult but at the end of the day, I finally understood the concept of recursion, which turns out it is easy once you get the hang of it.
+
+
+
