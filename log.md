@@ -139,5 +139,9 @@ Continued learning React and Python, I'm excited to learn more programming tomor
 **What did I do?😃:**
 Spent my whole day trying to understand recursion in Javascript, when I started learning, it was difficult but at the end of the day, I finally understood the concept of recursion, which turns out it is easy once you get the hang of it.
 
+### Day 23: November 26, 2019
+**Today's Progress**:  Started Learning Algorithm and Data Structures.  
 
+**What did I do?😃:**
+Started learning Javascript data structures and algorithms, my coding skills are improving day by day, I cannot focus on anything other than coding, I'm addicted to writing code all day.
 
