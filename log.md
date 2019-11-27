@@ -145,3 +145,10 @@ Spent my whole day trying to understand recursion in Javascript, when I started 
 **What did I do?😃:**
 Started learning Javascript data structures and algorithms, my coding skills are improving day by day, I cannot focus on anything other than coding, I'm addicted to writing code all day.
 
+### Day 24: November 27, 2019
+**Today's Progress**: Second day of learning JavaScript Data Structures and Algorithm.  
+
+**What did I do?😃:**
+It's my second day of learning JavaScript Data Structures and Algorithm, to be honest, it was overwhelming to get started but as I practice more and more, it feels good to solve problems once I thought I cannot crack. Keep Coding 👨‍💻.
+#webdeveloper #coder
+
