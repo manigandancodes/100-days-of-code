@@ -163,3 +163,9 @@ It's my third day of learning JavaScript Data Structures and Algorithm, also joi
 
 **What did I do?😃:**
 Another wonderful day of learning Javascript data structures and algorithms and the fact that I'm improving motivates me to keep learning more. 
+
+### Day 27: November 29, 2019
+**Today's Progress**: Spent most of my time on codewars challenges
+
+**What did I do?😃:**
+Spent most of my time on @codewars challenges I'm getting addicted to it and these challenges are beneficial to everyone who wants to be a skilled programmer. 
