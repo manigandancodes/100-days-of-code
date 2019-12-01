@@ -152,20 +152,27 @@ Started learning Javascript data structures and algorithms, my coding skills are
 It's my second day of learning JavaScript Data Structures and Algorithm, to be honest, it was overwhelming to get started but as I practice more and more, it feels good to solve problems once I thought I cannot crack. Keep Coding 👨‍💻.
 
 
-### Day 25: November 27, 2019
+### Day 25: November 28, 2019
 **Today's Progress**: Third day of learning JavaScript Data Structures and Algorithm.  
 
 **What did I do?😃:**
 It's my third day of learning JavaScript Data Structures and Algorithm, also joined @codewars, the challenges are amazing and fun to do.  I'm going to keep practicing data structures for a few days before going to the next topic. Happy Coding.
 
-### Day 26: November 28, 2019
+### Day 26: November 29, 2019
 **Today's Progress**: Fourth day of learning JavaScript Data Structures and Algorithm.  
 
 **What did I do?😃:**
 Another wonderful day of learning Javascript data structures and algorithms and the fact that I'm improving motivates me to keep learning more. 
 
-### Day 27: November 29, 2019
+### Day 27: November 30, 2019
 **Today's Progress**: Spent most of my time on codewars challenges
 
 **What did I do?😃:**
 Spent most of my time on @codewars challenges I'm getting addicted to it and these challenges are beneficial to everyone who wants to be a skilled programmer. 
+
+
+### Day 28: December 1, 2019
+**Today's Progress**: continued learning python
+
+**What did I do?😃:**
+I took a little break from learning Javascript and continued to learn python as of now these are my two favorite programming languages. Happy coding!
