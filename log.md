@@ -176,3 +176,10 @@ Spent most of my time on @codewars challenges I'm getting addicted to it and the
 
 **What did I do?😃:**
 I took a little break from learning Javascript and continued to learn python as of now these are my two favorite programming languages. Happy coding!
+
+
+### Day 29: December 2, 2019
+**Today's Progress**: I started learning how Javascript works behind the scene.
+
+**What did I do?😃:**
+I started learning how Javascript works behind the scene, I have to say it's been awesome to learn how it works and I think it helps me write better code. Happy Coding!
