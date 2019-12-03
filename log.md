@@ -183,3 +183,10 @@ I took a little break from learning Javascript and continued to learn python as 
 
 **What did I do?😃:**
 I started learning how Javascript works behind the scene, I have to say it's been awesome to learn how it works and I think it helps me write better code. Happy Coding!
+
+
+### Day 30: December 3, 2019
+**Today's Progress**: Contd. learning Js Data Structures.
+
+**What did I do?😃:**
+Continued learning Javascript Data Structures moreover spent my entire day reading mdn docs also doing Freecodecamp's wonderful javascript data structures lessons. Today was fun and I can recognize that I'm progressing every day.
