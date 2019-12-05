@@ -196,3 +196,10 @@ Continued learning Javascript Data Structures moreover spent my entire day readi
 
 **What did I do?😃:**
 Again took a break from learning Javascript and continued learning python because I'm still not good with python as I'm with Javascript, so far these are my favorite programming languages. Happy Coding!
+
+
+### Day 32: December 5, 2019
+**Today's Progress**: Contd. learning Python.
+
+**What did I do?😃:**
+I started learning Python data structures and I did a few Javascript codewars challenges everything I learned about Javascript pays off now. Happy Coding! #CodeNewbie 
