@@ -202,4 +202,11 @@ Again took a break from learning Javascript and continued learning python becaus
 **Today's Progress**: Contd. learning Python.
 
 **What did I do?😃:**
-I started learning Python data structures and I did a few Javascript codewars challenges everything I learned about Javascript pays off now. Happy Coding! #CodeNewbie 
+I started learning Python data structures and I did a few Javascript codewars challenges everything I learned about Javascript pays off now. Happy Coding!
+
+
+### Day 33: December 6, 2019
+**Today's Progress**: I started learning Function Programming.
+
+**What did I do?😃:**
+I learned the fundamentals of functional programming in Javascript and understood most of the concepts but the compose function was so hard to understand, I think I understand it now but I'm going to keep learning FP for a few days. Happy Coding! #CodeNewbie
