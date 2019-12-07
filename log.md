@@ -206,7 +206,13 @@ I started learning Python data structures and I did a few Javascript codewars ch
 
 
 ### Day 33: December 6, 2019
-**Today's Progress**: I started learning Function Programming.
+**Today's Progress**: I started learning Functional Programming.
 
 **What did I do?😃:**
-I learned the fundamentals of functional programming in Javascript and understood most of the concepts but the compose function was so hard to understand, I think I understand it now but I'm going to keep learning FP for a few days. Happy Coding! #CodeNewbie
+I learned the fundamentals of functional programming in Javascript and understood most of the concepts but the compose function was so hard to understand, I think I understand it now but I'm going to keep learning FP for a few days. Happy Coding!
+
+### Day 34: December 7, 2019
+**Today's Progress**: continued learning Functional Programming.
+
+**What did I do?😃:**
+It is a pleasant day, I continued learning Javascript functional programming, I could understand better than yesterday. How's your day been? Happy Coding! 🎉
