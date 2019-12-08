@@ -216,3 +216,9 @@ I learned the fundamentals of functional programming in Javascript and understoo
 
 **What did I do?😃:**
 It is a pleasant day, I continued learning Javascript functional programming, I could understand better than yesterday. How's your day been? Happy Coding! 🎉
+
+### Day 35: December 8, 2019
+**Today's Progress**: continued learning Functional Programming.
+
+**What did I do?😃:**
+You know what, functional programming is freaking awesome, it was difficult for me to understand in the beginning, but after learning it for a few days, I like it so much, I'm not saying everyone should use it, but I'm going to use FP more than OOP.
