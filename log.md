@@ -222,3 +222,9 @@ It is a pleasant day, I continued learning Javascript functional programming, I 
 
 **What did I do?😃:**
 You know what, functional programming is freaking awesome, it was difficult for me to understand in the beginning, but after learning it for a few days, I like it so much, I'm not saying everyone should use it, but I'm going to use FP more than OOP.
+
+### Day 36: December 9, 2019
+**Today's Progress**: Started learning asynchronous Javascript.
+
+**What did I do?😃:**
+Today I learned Asynchronous Javascript, continued working on my portfolio UI. Found out that I'm not good at making UIs, oh boy! I have to improve my designing skills. Happy Coding! #CodeNewbie 
