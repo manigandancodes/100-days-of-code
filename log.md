@@ -227,4 +227,10 @@ You know what, functional programming is freaking awesome, it was difficult for 
 **Today's Progress**: Started learning asynchronous Javascript.
 
 **What did I do?😃:**
-Today I learned Asynchronous Javascript, continued working on my portfolio UI. Found out that I'm not good at making UIs, oh boy! I have to improve my designing skills. Happy Coding! #CodeNewbie 
+Today I learned Asynchronous Javascript, continued working on my portfolio UI. Found out that I'm not good at making UIs, oh boy! I have to improve my designing skills. Happy Coding! 
+
+### Day 37: December 10, 2019
+**Today's Progress**: Practicing Javscript.
+
+**What did I do?😃:**
+OMG, it's been a long day, I was coding non-stop for 8 hours and I kept refactoring and fixing my old code it was amusing but still, I'm not good at designing website layouts 😅 , I guess I need to keep practicing. Happy Coding!
