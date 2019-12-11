@@ -234,3 +234,8 @@ Today I learned Asynchronous Javascript, continued working on my portfolio UI. F
 
 **What did I do?😃:**
 OMG, it's been a long day, I was coding non-stop for 8 hours and I kept refactoring and fixing my old code it was amusing but still, I'm not good at designing website layouts 😅 , I guess I need to keep practicing. Happy Coding!
+
+### Day 38: December 11, 2019
+**Today's Progress**: Resumed Learning React
+**What did I do?😃:**
+I resumed learning Andrei's great complete react developer in the 2020 course I'm starting to see how powerful react is, I'm going to keep practicing it for a few days, before going back to javascript algorithms & data structures. Happy Coding!🥳
