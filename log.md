@@ -237,5 +237,12 @@ OMG, it's been a long day, I was coding non-stop for 8 hours and I kept refactor
 
 ### Day 38: December 11, 2019
 **Today's Progress**: Resumed Learning React
+
 **What did I do?😃:**
 I resumed learning Andrei's great complete react developer in the 2020 course I'm starting to see how powerful react is, I'm going to keep practicing it for a few days, before going back to javascript algorithms & data structures. Happy Coding!🥳
+
+### Day 39: December 12, 2019
+**Today's Progress**: I learned react router.
+
+**What did I do?😃:**
+I learned to use react-router and continued working on my portfolio design. Happy Coding!
