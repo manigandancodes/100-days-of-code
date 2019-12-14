@@ -247,8 +247,14 @@ I resumed learning Andrei's great complete react developer in the 2020 course I'
 **What did I do?😃:**
 I learned to use react-router and continued working on my portfolio design. Happy Coding!
 
-### Day 40: December 12, 2019
+### Day 40: December 13, 2019
 **Today's Progress**: I learned to integrate firebase with react.
 
 **What did I do?😃:**
 I learned to integrate firebase with react moreover I created an account on hackerrank and completed a few challenges, I should have done it a long time ago anyway these challenges are great! Happy Coding🥳.
+
+### Day 41: December 14, 2019
+**Today's Progress**: Watched algorithm videos on MIT OpenCourseWare.
+
+**What did I do?😃:**
+OMG! Today I found Programming for the Puzzled playlist on MIT OpenCourseWare youtube channel, it is so awesome now I can understand why MIT is so great I spent my entire day watching CS algorithms and data structures lectures, it was a great experience. 
