@@ -258,3 +258,9 @@ I learned to integrate firebase with react moreover I created an account on hack
 
 **What did I do?😃:**
 OMG! Today I found Programming for the Puzzled playlist on MIT OpenCourseWare youtube channel, it is so awesome now I can understand why MIT is so great I spent my entire day watching CS algorithms and data structures lectures, it was a great experience. 
+
+### Day 42: December 15, 2019
+**Today's Progress**: Watched algorithm videos on MIT OpenCourseWare.
+
+**What did I do?😃:**
+I continued to learn javascript algorithms and made a few additions to my portfolio. Finally, I'm happy to say my problem-solving skills are improving 🥳, but I can't say the same about my design skills 😭, but I'm slowly progressing🙂. Happy Coding!
