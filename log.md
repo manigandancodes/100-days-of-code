@@ -264,3 +264,11 @@ OMG! Today I found Programming for the Puzzled playlist on MIT OpenCourseWare yo
 
 **What did I do?😃:**
 I continued to learn javascript algorithms and made a few additions to my portfolio. Finally, I'm happy to say my problem-solving skills are improving 🥳, but I can't say the same about my design skills 😭, but I'm slowly progressing🙂. Happy Coding!
+
+### Day 43: December 16, 2019
+**Today's Progress**: Watched algorithm videos on MIT OpenCourseWare.
+
+**What did I do?😃:**
+I love repl.it's dark theme a lot, so when I searched for a similar vscode theme, I could not find one so I ended up creating a vscode theme based on repl.it' s dark theme🥳🎉. 
+https://marketplace.visualstudio.com/items?itemName=manigandancodes.repl-it-theme
+
