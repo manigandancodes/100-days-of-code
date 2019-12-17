@@ -272,3 +272,9 @@ I continued to learn javascript algorithms and made a few additions to my portfo
 I love repl.it's dark theme a lot, so when I searched for a similar vscode theme, I could not find one so I ended up creating a vscode theme based on repl.it' s dark theme🥳🎉. 
 https://marketplace.visualstudio.com/items?itemName=manigandancodes.repl-it-theme
 
+### Day 44: December 17, 2019
+**Today's Progress**: Watched algorithm videos on MIT OpenCourseWare.
+
+**What did I do?😃:**
+I started learning python algorithms, MIT OpenCourseWare has lots of advanced algorithms lectures on their YT channel especially Professor Srini Devadas's Programming for the Puzzled playlist is remarkable. Keep Coding!
+
