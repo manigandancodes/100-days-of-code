@@ -278,3 +278,9 @@ https://marketplace.visualstudio.com/items?itemName=manigandancodes.repl-it-them
 **What did I do?😃:**
 I started learning python algorithms, MIT OpenCourseWare has lots of advanced algorithms lectures on their YT channel especially Professor Srini Devadas's Programming for the Puzzled playlist is remarkable. Keep Coding!
 
+### Day 45: December 18, 2019
+**Today's Progress**: I continued learning react.js.
+
+**What did I do?😃:**
+I continued learning React.js and functional javascript. It's been a busy day, but I managed to continue working on my portfolio design. Keep Coding!
+
