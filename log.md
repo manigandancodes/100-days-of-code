@@ -284,15 +284,20 @@ I started learning python algorithms, MIT OpenCourseWare has lots of advanced al
 **What did I do?😃:**
 I continued learning React.js and functional javascript. It's been a busy day, but I managed to continue working on my portfolio design. Keep Coding!
 
-### Day 46: December 18, 2019
+### Day 46: December 19, 2019
 **Today's Progress**: I continued learning python.
 
 **What did I do?😃:**
 I continued to learn functional programming and algorithms in python. Happy Coding!
 
-### Day 47: December 18, 2019
+### Day 47: December 20, 2019
 **Today's Progress**: I continued on my portfolio.
 
 **What did I do?😃:**
 Today I didn't code much, but I continued to work on my portfolio design. Happy Coding!
 
+### Day 48: December 21, 2019
+**Today's Progress**: Started Learning Next.js.
+
+**What did I do?😃:**
+I started learning NextJs, it's super cool and really powerful I'm still not familiar with it yet, but I'm going to build my portfolio using it so I can understand it better. Happy Coding!
