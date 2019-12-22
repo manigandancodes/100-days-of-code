@@ -301,3 +301,9 @@ Today I didn't code much, but I continued to work on my portfolio design. Happy 
 
 **What did I do?😃:**
 I started learning NextJs, it's super cool and really powerful I'm still not familiar with it yet, but I'm going to build my portfolio using it so I can understand it better. Happy Coding!
+
+### Day 49: December 22, 2019
+**Today's Progress**: Started Coding My Portfolio with Next.js.
+
+**What did I do?😃:**
+I started coding my portfolio with NextJs, docs were easy to follow, but implementing myself from scratch is another story, but I managed to complete 30% of the portfolio. And I should level up my CSS skills. Happy Coding!
