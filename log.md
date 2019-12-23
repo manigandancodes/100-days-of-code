@@ -307,3 +307,9 @@ I started learning NextJs, it's super cool and really powerful I'm still not fam
 
 **What did I do?😃:**
 I started coding my portfolio with NextJs, docs were easy to follow, but implementing myself from scratch is another story, but I managed to complete 30% of the portfolio. And I should level up my CSS skills. Happy Coding!
+
+### Day 50: December 23, 2019
+**Today's Progress**: Started Coding My Portfolio with Next.js.
+
+Day 2 of learning and implementing NextJs in my portfolio, everything seems to be working fine. Tomorrow I have to do some basic styling. Happy Coding!
+#webdevelopment #coding #CodeNewbie #helloworld 
