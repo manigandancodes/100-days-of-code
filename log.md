@@ -312,4 +312,8 @@ I started coding my portfolio with NextJs, docs were easy to follow, but impleme
 **Today's Progress**: Started Coding My Portfolio with Next.js.
 
 Day 2 of learning and implementing NextJs in my portfolio, everything seems to be working fine. Tomorrow I have to do some basic styling. Happy Coding!
-#webdevelopment #coding #CodeNewbie #helloworld 
+
+### Day 51: December 24, 2019
+**Today's Progress**: Started Coding My Portfolio with Next.js.
+
+Day 3 of learning and implementing NextJs in my portfolio also learned to use styled-components I'm considering using styled-jsx which comes with NextJs by default. Happy Coding!
