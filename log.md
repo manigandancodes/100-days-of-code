@@ -317,3 +317,9 @@ Day 2 of learning and implementing NextJs in my portfolio, everything seems to b
 **Today's Progress**: Started Coding My Portfolio with Next.js.
 
 Day 3 of learning and implementing NextJs in my portfolio also learned to use styled-components I'm considering using styled-jsx which comes with NextJs by default. Happy Coding!
+
+
+### Day 52: December 25, 2019
+**Today's Progress**: Learned Firebase.
+I spent my day learning firebase and integrating it with React, it was easy to get started. I also tried CSS Houdini and it is awesome, I hope every browser implements it soon, I'm excited to use it in my projects.
+#webdevelopment #coding #CodeNewbie 
