@@ -355,8 +355,13 @@ Day 3 of learning and implementing NextJs in my portfolio also learned to use st
 **Today's Progress**: Learned Firebase.
 I spent my day learning firebase and integrating it with React, it was easy to get started. I also tried CSS Houdini and it is awesome, I hope every browser implements it soon, I'm excited to use it in my projects.
 
-### Day 52: December 25, 2019
+### Day 53: December 26, 2019
 
 **Today's Progress**:I resumed to work on portfolio.
 I resumed to work on my portfolio, I thought I could complete at least 50 percent of the portfolio, but unexpectedly I messed up the CSS 😱. I'm gonna have to debug my portfolio tomorrow😞 I cannot continue any longer today😭.
-#webdevelopment #CodeNewbie
+
+### Day 54: December 27, 2019
+
+**Today's Progress**:I resumed to work on portfolio.
+I fixed lots of CSS😁 bugs in my portfolio but decided to code my portfolio from the beginning because I feel the project architecture could be better, so I'm going to start with a new design. Happy Coding!
+#webdevelopment #coding #CodeNewbie #helloworld
