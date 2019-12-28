@@ -364,4 +364,8 @@ I resumed to work on my portfolio, I thought I could complete at least 50 percen
 
 **Today's Progress**:I resumed to work on portfolio.
 I fixed lots of CSS😁 bugs in my portfolio but decided to code my portfolio from the beginning because I feel the project architecture could be better, so I'm going to start with a new design. Happy Coding!
-#webdevelopment #coding #CodeNewbie #helloworld
+
+### Day 55: December 28, 2019
+
+**Today's Progress**: I started learning javascript design patterns.
+I started learning Javascript design patterns and Vue, as I already have experience with React, Vue was easy to learn. I also revisited some of the CSS grid concepts.
