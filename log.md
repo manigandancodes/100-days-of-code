@@ -369,3 +369,8 @@ I fixed lots of CSS😁 bugs in my portfolio but decided to code my portfolio fr
 
 **Today's Progress**: I started learning javascript design patterns.
 I started learning Javascript design patterns and Vue, as I already have experience with React, Vue was easy to learn. I also revisited some of the CSS grid concepts.
+
+### Day 56: December 29, 2019
+
+**Today's Progress**: Learning Redux and Context API.
+I remained to learn firebase firestore and using it to store data from a React application. Also, I continued to learn Redux and Context API.
