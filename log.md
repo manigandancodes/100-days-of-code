@@ -375,7 +375,12 @@ I started learning Javascript design patterns and Vue, as I already have experie
 **Today's Progress**: Learning Redux and Context API.
 I remained to learn firebase firestore and using it to store data from a React application. Also, I continued to learn Redux and Context API.
 
-### Day 57: December 29, 2019
+### Day 57: December 30, 2019
 
 **Today's Progress**: Read Scope & Closures Book.
 Took a break and read Kyle Simpson's Scope & Closures Book, recommended for anyone who wants to dive deep into Javascript. Thank you, @getify.
+
+### Day 58: December 31, 2019
+
+**Today's Progress**: Started backend developement.
+I finally entered the realm of backend development, even though I prefer articles, and books to learn I bought a nodejs course on Udemy. I'm excited to learn more about backend development in 2020. 
