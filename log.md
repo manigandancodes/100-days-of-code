@@ -384,3 +384,7 @@ Took a break and read Kyle Simpson's Scope & Closures Book, recommended for anyo
 
 **Today's Progress**: Started backend developement.
 I finally entered the realm of backend development, even though I prefer articles, and books to learn I bought a nodejs course on Udemy. I'm excited to learn more about backend development in 2020. 
+
+### Day 59: January 1, 2020
+**Today's Progress**: Started learning Typescript.
+So, yesterday I got into backend development, so make things even cooler I started learning Typescript and converted my upcoming portfolio code to Typescript as well, I love type checking in my code and vscode shines with lots of features. I'm going to use TS in all my future projects.
