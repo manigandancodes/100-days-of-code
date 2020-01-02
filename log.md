@@ -388,3 +388,7 @@ I finally entered the realm of backend development, even though I prefer article
 ### Day 59: January 1, 2020
 **Today's Progress**: Started learning Typescript.
 So, yesterday I got into backend development, so make things even cooler I started learning Typescript and converted my upcoming portfolio code to Typescript as well, I love type checking in my code and vscode shines with lots of features. I'm going to use TS in all my future projects.
+
+### Day 60: January 2, 2020
+I continued learning Typescript and Nodejs, also I used TS with nextjs and many more libraries it was fun, then I realized I have no project ideas😞, so I'm going to search for some inspirations. Any suggestions are appreciated!
+#webdevelopment #coding
