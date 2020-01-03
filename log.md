@@ -392,3 +392,8 @@ So, yesterday I got into backend development, so make things even cooler I start
 ### Day 60: January 2, 2020
 I continued learning Typescript and Nodejs, also I used TS with nextjs and many more libraries it was fun, then I realized I have no project ideas😞, so I'm going to search for some inspirations. Any suggestions are appreciated!
 #webdevelopment #coding
+
+
+### Day 61: January 3, 2020
+I continued learning Nodejs, made a simple RESTful API, and understanding how the web works made me a better coder👨‍💻. I'm excited to learn more about backend development. Happy Coding!🎉
+#webdevelopment #coding #helloworld
