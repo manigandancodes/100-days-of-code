@@ -383,21 +383,29 @@ Took a break and read Kyle Simpson's Scope & Closures Book, recommended for anyo
 ### Day 58: December 31, 2019
 
 **Today's Progress**: Started backend developement.
-I finally entered the realm of backend development, even though I prefer articles, and books to learn I bought a nodejs course on Udemy. I'm excited to learn more about backend development in 2020. 
+I finally entered the realm of backend development, even though I prefer articles, and books to learn I bought a nodejs course on Udemy. I'm excited to learn more about backend development in 2020.
 
 ### Day 59: January 1, 2020
+
 **Today's Progress**: Started learning Typescript.
 So, yesterday I got into backend development, so make things even cooler I started learning Typescript and converted my upcoming portfolio code to Typescript as well, I love type checking in my code and vscode shines with lots of features. I'm going to use TS in all my future projects.
 
 ### Day 60: January 2, 2020
+
 I continued learning Typescript and Nodejs, also I used TS with nextjs and many more libraries it was fun, then I realized I have no project ideas😞, so I'm going to search for some inspirations. Any suggestions are appreciated!
 #webdevelopment #coding
 
-
 ### Day 61: January 3, 2020
+
 I continued learning Nodejs, made a simple RESTful API, and understanding how the web works made me a better coder👨‍💻. I'm excited to learn more about backend development. Happy Coding!🎉
 #webdevelopment #coding #helloworld
 
 ### Day 62: January 4, 2020
-I'm in ♥️ with 
+
+I'm in ♥️ with
 @typescript, Today I used it with React, and it caught errors before runtime and reduced debugging time, now I see why it is important in a massive codebase. It's a lifesaver.
+
+### Day 63: January 5, 2020
+
+I started learning redux, it's a bit hard to wrap my head around first, but I'm trying my best to keep up.
+#webdevelopment #coding
