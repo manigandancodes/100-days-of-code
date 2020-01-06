@@ -409,3 +409,7 @@ I'm in ♥️ with
 
 I started learning redux, it's a bit hard to wrap my head around first, but I'm trying my best to keep up.
 #webdevelopment #coding
+
+### Day 64: January 6, 2020
+I finally grasped the concept of redux, but the problem began when I transformed js to typescript there were a bunch of errors, and I'm still figuring out how to write some redux code in TS.
+#webdevelopment #coding #TypeScript
