@@ -413,3 +413,7 @@ I started learning redux, it's a bit hard to wrap my head around first, but I'm 
 ### Day 64: January 6, 2020
 I finally grasped the concept of redux, but the problem began when I transformed js to typescript there were a bunch of errors, and I'm still figuring out how to write some redux code in TS.
 #webdevelopment #coding #TypeScript
+
+### Day 65: January 7, 2020
+Another tough day of learning redux with Typescript, things are going well, I'm getting familiar with it, and also refreshed my CSS Grid Skills😄.
+#webdevelopment #coding 
