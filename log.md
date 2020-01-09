@@ -417,3 +417,10 @@ I finally grasped the concept of redux, but the problem began when I transformed
 ### Day 65: January 7, 2020
 Another tough day of learning redux with Typescript, things are going well, I'm getting familiar with it, and also refreshed my CSS Grid Skills😄.
 #webdevelopment #coding 
+
+### Day 66: January 8, 2020
+I continued learning react hooks with typescript, It was a busy day, so I didn't code much, So far I have not got a good project idea, I hope tomorrow will be fantastic.
+
+### Day 67: January 9, 2020
+Today was fun, I used electron and amazed by the fact that we can build high-quality desktop apps with javascript also TypeScript's type definitions were pretty cool.
+#webdevelopment #coding 
