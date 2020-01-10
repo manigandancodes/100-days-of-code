@@ -424,3 +424,7 @@ I continued learning react hooks with typescript, It was a busy day, so I didn't
 ### Day 67: January 9, 2020
 Today was fun, I used electron and amazed by the fact that we can build high-quality desktop apps with javascript also TypeScript's type definitions were pretty cool.
 #webdevelopment #coding 
+
+### Day 68: January 10, 2020
+I practiced some sorting algorithms also tried some of the examples in the NextJs repo. Reading docs and code is fun. Happy coding!🥳
+#webdevelopment #coding #code
