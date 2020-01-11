@@ -428,3 +428,7 @@ Today was fun, I used electron and amazed by the fact that we can build high-qua
 ### Day 68: January 10, 2020
 I practiced some sorting algorithms also tried some of the examples in the NextJs repo. Reading docs and code is fun. Happy coding!🥳
 #webdevelopment #coding #code
+
+### Day 69: January 11, 2020
+I practiced more javascript algorithms, also learned about code optimization and code splitting, it was fun.
+#webdevelopment #coding 
