@@ -432,3 +432,8 @@ I practiced some sorting algorithms also tried some of the examples in the NextJ
 ### Day 69: January 11, 2020
 I practiced more javascript algorithms, also learned about code optimization and code splitting, it was fun.
 #webdevelopment #coding 
+
+### Day 70: January 12, 2020
+I learned about CRUD operation on the server with nodejs, also learned about Big 0 time and space complexity.
+#webdevelopment 
+#coding 
