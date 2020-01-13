@@ -411,29 +411,41 @@ I started learning redux, it's a bit hard to wrap my head around first, but I'm 
 #webdevelopment #coding
 
 ### Day 64: January 6, 2020
+
 I finally grasped the concept of redux, but the problem began when I transformed js to typescript there were a bunch of errors, and I'm still figuring out how to write some redux code in TS.
 #webdevelopment #coding #TypeScript
 
 ### Day 65: January 7, 2020
+
 Another tough day of learning redux with Typescript, things are going well, I'm getting familiar with it, and also refreshed my CSS Grid Skills😄.
-#webdevelopment #coding 
+#webdevelopment #coding
 
 ### Day 66: January 8, 2020
+
 I continued learning react hooks with typescript, It was a busy day, so I didn't code much, So far I have not got a good project idea, I hope tomorrow will be fantastic.
 
 ### Day 67: January 9, 2020
+
 Today was fun, I used electron and amazed by the fact that we can build high-quality desktop apps with javascript also TypeScript's type definitions were pretty cool.
-#webdevelopment #coding 
+#webdevelopment #coding
 
 ### Day 68: January 10, 2020
+
 I practiced some sorting algorithms also tried some of the examples in the NextJs repo. Reading docs and code is fun. Happy coding!🥳
 #webdevelopment #coding #code
 
 ### Day 69: January 11, 2020
+
 I practiced more javascript algorithms, also learned about code optimization and code splitting, it was fun.
-#webdevelopment #coding 
+#webdevelopment #coding
 
 ### Day 70: January 12, 2020
+
 I learned about CRUD operation on the server with nodejs, also learned about Big 0 time and space complexity.
-#webdevelopment 
-#coding 
+#webdevelopment
+#coding
+
+### Day 71: January 13, 2020
+
+Today, I experimented with lots of css-in-js solutions, but by far, my most favorite one is styled-jsx, it provides lots of features, and NextJs has built-in support for styled-jsx, so we don't have to do any configurations🥳I love it!♥️
+#webdev #CSSinJS #code
