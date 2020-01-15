@@ -450,11 +450,13 @@ I learned about CRUD operation on the server with nodejs, also learned about Big
 Today, I experimented with lots of css-in-js solutions, but by far, my most favorite one is styled-jsx, it provides lots of features, and NextJs has built-in support for styled-jsx, so we don't have to do any configurations🥳I love it!♥️
 #webdev #CSSinJS #code
 
-
 ### Day 72: January 14, 2020
+
 Today, I learned more about react server-side rendering using NextJs, also I tried Rust-lang it's great, I haven't learned the syntax yet because I'm currently busy with exams😞, but I'll start learning it in a few weeks.
+
+### Day 73: January 15, 2020
+
+I spent less time coding, more time learning design principles and color theory which I'm not good at, I think it's an important skill to acquire as a developer so that I can express my thoughts clearly to the end-user.
 #webdev
 #coding
-#SSR
-#React 
-#dev
+#colortheory
