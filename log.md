@@ -460,3 +460,7 @@ I spent less time coding, more time learning design principles and color theory 
 #webdev
 #coding
 #colortheory
+
+### Day 74: January 16, 2020
+I took a break from learning React and started learning data visualization using D3js so far I have learned the fundamentals.
+#webdev #coding
