@@ -464,3 +464,7 @@ I spent less time coding, more time learning design principles and color theory 
 ### Day 74: January 16, 2020
 I took a break from learning React and started learning data visualization using D3js so far I have learned the fundamentals.
 #webdev #coding
+
+D75 of #100DaysOfCode
+I spent my day solving some codewars challenges, also read few chapters of  YouDontKnowJs: Async and Performance, a great book to learn JavaScript.
+#webdev #coding
