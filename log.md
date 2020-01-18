@@ -468,3 +468,7 @@ I took a break from learning React and started learning data visualization using
 D75 of #100DaysOfCode
 I spent my day solving some codewars challenges, also read few chapters of  YouDontKnowJs: Async and Performance, a great book to learn JavaScript.
 #webdev #coding
+
+D76 of #100DaysOfCode
+I continued learning Server Side Rendering using NextJs and did some code refactoring on my portfolio.
+#webdev #coding
