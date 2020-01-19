@@ -472,3 +472,13 @@ I spent my day solving some codewars challenges, also read few chapters of  YouD
 D76 of #100DaysOfCode
 I continued learning Server Side Rendering using NextJs and did some code refactoring on my portfolio.
 #webdev #coding
+
+
+D77 of #100DaysOfCode
+
+I just realized I'm only utilizing about 10% features of the chrome dev tools, @PrashantPalikhe shared lots of features I've never knew existed in his talk. Check out his video 🎉
+ 
+https://youtu.be/KykP5Z5E4kA 
+
+#webdev #coding #chrome #chromedevtools 
+
