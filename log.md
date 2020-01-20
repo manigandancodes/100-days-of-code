@@ -482,3 +482,8 @@ https://youtu.be/KykP5Z5E4kA
 
 #webdev #coding #chrome #chromedevtools 
 
+D78 of #100DaysOfCode
+
+I spent less time coding and read a few chapters of You Don't Know JS: ES6 & Beyond. It has been fun reading it.
+
+#webdev #coding #reading
