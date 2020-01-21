@@ -487,3 +487,11 @@ D78 of #100DaysOfCode
 I spent less time coding and read a few chapters of You Don't Know JS: ES6 & Beyond. It has been fun reading it.
 
 #webdev #coding #reading
+
+
+D79 of #100DaysOfCode
+
+It's been a long time since I used python, so I took a break and practiced a few algorithms using python. I also planned on learning rust lang, but I haven't found a use case for it yet.
+
+#webdev #coding #python
+
