@@ -495,3 +495,8 @@ It's been a long time since I used python, so I took a break and practiced a few
 
 #webdev #coding #python
 
+D80 of #100DaysOfCode
+
+Today was fun😄 I resumed working on my portfolio and practiced some codewars challenges. Besides, I tried web scraping with python.
+
+#webdev #coding #python #challenges #algorithms
