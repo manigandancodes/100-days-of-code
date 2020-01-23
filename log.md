@@ -500,3 +500,9 @@ D80 of #100DaysOfCode
 Today was fun😄 I resumed working on my portfolio and practiced some codewars challenges. Besides, I tried web scraping with python.
 
 #webdev #coding #python #challenges #algorithms
+
+D81 of #100DaysOfCode
+
+I spent most of my time improving my CSS skills, especially I read CSS Handbook by @flaviocopes, excellent book if you want to learn CSS, he also covered some advanced CSS topics. I learned a lot from his book. Thank you, Flavio.
+
+#webdev #coding #CSS 
