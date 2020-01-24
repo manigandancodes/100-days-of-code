@@ -506,3 +506,10 @@ D81 of #100DaysOfCode
 I spent most of my time improving my CSS skills, especially I read CSS Handbook by @flaviocopes, excellent book if you want to learn CSS, he also covered some advanced CSS topics. I learned a lot from his book. Thank you, Flavio.
 
 #webdev #coding #CSS 
+
+
+D82 of #100DaysOfCode
+
+I continued designing my portfolio so far I have completed about 40% of it. Also, I'm going to use NextJs for server-side rendering.
+
+#webdev #coding #portfolio 
