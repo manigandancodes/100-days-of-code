@@ -462,32 +462,31 @@ I spent less time coding, more time learning design principles and color theory 
 #colortheory
 
 ### Day 74: January 16, 2020
+
 I took a break from learning React and started learning data visualization using D3js so far I have learned the fundamentals.
 #webdev #coding
 
 D75 of #100DaysOfCode
-I spent my day solving some codewars challenges, also read few chapters of  YouDontKnowJs: Async and Performance, a great book to learn JavaScript.
+I spent my day solving some codewars challenges, also read few chapters of YouDontKnowJs: Async and Performance, a great book to learn JavaScript.
 #webdev #coding
 
 D76 of #100DaysOfCode
 I continued learning Server Side Rendering using NextJs and did some code refactoring on my portfolio.
 #webdev #coding
 
-
 D77 of #100DaysOfCode
 
 I just realized I'm only utilizing about 10% features of the chrome dev tools, @PrashantPalikhe shared lots of features I've never knew existed in his talk. Check out his video 🎉
- 
-https://youtu.be/KykP5Z5E4kA 
 
-#webdev #coding #chrome #chromedevtools 
+https://youtu.be/KykP5Z5E4kA
+
+#webdev #coding #chrome #chromedevtools
 
 D78 of #100DaysOfCode
 
 I spent less time coding and read a few chapters of You Don't Know JS: ES6 & Beyond. It has been fun reading it.
 
 #webdev #coding #reading
-
 
 D79 of #100DaysOfCode
 
@@ -505,11 +504,17 @@ D81 of #100DaysOfCode
 
 I spent most of my time improving my CSS skills, especially I read CSS Handbook by @flaviocopes, excellent book if you want to learn CSS, he also covered some advanced CSS topics. I learned a lot from his book. Thank you, Flavio.
 
-#webdev #coding #CSS 
-
+#webdev #coding #CSS
 
 D82 of #100DaysOfCode
 
 I continued designing my portfolio so far I have completed about 40% of it. Also, I'm going to use NextJs for server-side rendering.
 
-#webdev #coding #portfolio 
+#webdev #coding #portfolio
+
+D83 of #100DaysOfCode
+
+Today, I used react hooks I like it so much, I'm considering utilizing it more in my projects, I think React Hooks and the Context API is a better solution.
+Which state management do you use in your projects? Which do you prefer Class components or Functional components?
+
+#webdev #coding #react #reacthooks #statemanagement #functional
