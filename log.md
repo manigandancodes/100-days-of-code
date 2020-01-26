@@ -518,3 +518,10 @@ Today, I used react hooks I like it so much, I'm considering utilizing it more i
 Which state management do you use in your projects? Which do you prefer Class components or Functional components?
 
 #webdev #coding #react #reacthooks #statemanagement #functional
+
+
+D84 of #100DaysOfCode
+
+I read a few chapters of You Don't Know JS: Async & Performance, it's a great book I learned a lot from it, also I solved some coding challenges on codewars.
+
+#webdev #coding #reading #javascript #jschallenges
