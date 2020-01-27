@@ -525,3 +525,9 @@ D84 of #100DaysOfCode
 I read a few chapters of You Don't Know JS: Async & Performance, it's a great book I learned a lot from it, also I solved some coding challenges on codewars.
 
 #webdev #coding #reading #javascript #jschallenges
+
+D85 of #100DaysOfCode
+
+It's been six months since I used @FlutterDev, they released so many features, and it's so cool, from a single codebase we can build apps for mobile, web and desktop. I've missed so much, so I'm going to focus on learning dart and flutter.
+
+#flutter #dart
