@@ -531,3 +531,21 @@ D85 of #100DaysOfCode
 It's been six months since I used @FlutterDev, they released so many features, and it's so cool, from a single codebase we can build apps for mobile, web and desktop. I've missed so much, so I'm going to focus on learning dart and flutter.
 
 #flutter #dart
+
+D86 of #100DaysOfCode
+
+I resumed learning golang, one of the great things about golang is, it compiles really fast, and it's as easy to learn. But, I could not decide which to learn first golang or rust.
+
+#webdev #rust #go #golang
+
+D87 of #100DaysOfCode
+
+It was a busy day I spent my time reading YDKJS - this & Object Prototypes, and I did a few codewars coding challenges. That's it for today, tomorrow I will continue to learn golang.
+
+#webdev #golang #ydkjs #reading #javascript
+
+D88 & 89 of #100DaysOfCode
+
+For the past two days, I've been learning Rust and Dart I like both of them I'm mainly learning Dart for Flutter Development. Also, I did some coding challenges with Rust. 
+
+#webdev #rust #dart #flutter #coding
