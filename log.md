@@ -519,7 +519,6 @@ Which state management do you use in your projects? Which do you prefer Class co
 
 #webdev #coding #react #reacthooks #statemanagement #functional
 
-
 D84 of #100DaysOfCode
 
 I read a few chapters of You Don't Know JS: Async & Performance, it's a great book I learned a lot from it, also I solved some coding challenges on codewars.
@@ -546,6 +545,12 @@ It was a busy day I spent my time reading YDKJS - this & Object Prototypes, and 
 
 D88 & 89 of #100DaysOfCode
 
-For the past two days, I've been learning Rust and Dart I like both of them I'm mainly learning Dart for Flutter Development. Also, I did some coding challenges with Rust. 
+For the past two days, I've been learning Rust and Dart I like both of them I'm mainly learning Dart for Flutter Development. Also, I did some coding challenges with Rust.
 
 #webdev #rust #dart #flutter #coding
+
+D90 of #100DaysOfCode
+
+Today I spent my time reading about web accessibility and learned about color theory, choosing accessible colors, and some design principles. Also, as usual, I did some coding challenges.
+
+#webdev #colortheory #design #web #accesiblity
