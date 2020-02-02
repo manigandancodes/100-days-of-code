@@ -554,3 +554,8 @@ D90 of #100DaysOfCode
 Today I spent my time reading about web accessibility and learned about color theory, choosing accessible colors, and some design principles. Also, as usual, I did some coding challenges.
 
 #webdev #colortheory #design #web #accesiblity
+
+I continued to learn Rust-Lang, one of my favorite programming languages. Moreover "Get started with Rust" book is super useful I learned a lot from it and I decided to keep learning it, and planned to use it in my future projects.
+
+D91 of #100DaysOfCode 
+#rust #web #Coding
