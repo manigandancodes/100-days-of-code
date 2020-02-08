@@ -559,3 +559,23 @@ I continued to learn Rust-Lang, one of my favorite programming languages. Moreov
 
 D91 of #100DaysOfCode 
 #rust #web #Coding
+
+Well, I've been learning golang for the past few days along with rust-lang I like both of them, today I learned about Rest API and concurrency patterns in golang.
+
+D92 of #100DaysOfCode
+#webdev #web #golang #rust #CodeNewbie
+
+I did not code much today, but I read some JavaScript books and did some coding challenges
+
+D93 of #100DaysOfCode
+#webdev #web #javascript #CodeNewbie
+
+It's been a while since I used JavaScript or Python, so I did a few codewars challenges, also I started designing my long last portfolio design 🙄. 
+
+D 94 & 95  of #100DaysOfCode
+#webdev #javascript #portfolio #python #CodeNewbie
+
+I did a few changes to my portfolio design, also for the past two days, I spent my time learning about compilers, memory, and concurrency and for the first time I used C. 
+
+D 96 & 97  of #100DaysOfCode
+#webdev #javascript #compilers #concurrency
