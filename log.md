@@ -579,3 +579,6 @@ I did a few changes to my portfolio design, also for the past two days, I spent 
 
 D 96 & 97  of #100DaysOfCode
 #webdev #javascript #compilers #concurrency
+It's been fun trying server-side rendering with reactjs I tried NextJs and GatsbyJs. I have not made any projects with VueJs yet, so I plan on learning it more in the future.
+
+D 98 & 99 of #100DaysOfCode #webdev #javascript #vuejs #reactjs
